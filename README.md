@@ -1,4 +1,4 @@
-# tarea_1_curso_android
+# TAREA 1 HACKERRANK
 
 # siguientes ejercicios resueltos...
 
